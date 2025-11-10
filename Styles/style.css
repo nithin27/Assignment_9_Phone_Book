@@ -1,0 +1,95 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.navbar {
+  text-align: center;
+  background-color: #4a90e2;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: linear-gradient(135deg, #38daec 0%, #065197 100%);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Save button style */
+.btnSave {
+  background: linear-gradient(135deg, #38daec 0%, #065197 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+
+/* Search Button Style */
+.btnSearch {
+  background: linear-gradient(135deg, #38daec 0%, #065197 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+
+/* Css for Edit button */
+.btnEdit {
+  background: linear-gradient(135deg, #e08d79 0%, #ce7d04 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+
+/* Delete Button Style */
+.btnDelete {
+  background: linear-gradient(135deg, #f28080 0%, #f50303 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+
+
+/* Style for Cancelbutton */
+.btnCancel {
+  background: linear-gradient(135deg, #38daec 0%, #065197 100%);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  color: white;
+  border: none;
+}
+
+
+/* Style for add contact Section */
+.addContactDiv {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: linear-gradient(135deg, #fafafa 0%, #f8f4f4 100%);
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Style for Contact section */
+.contactsDiv {
+  text-align: center;
+  margin-bottom: 30px;
+  padding: 20px;
+  background: linear-gradient(135deg, #fafafa 0%, #f8f4f4 100%);
+  color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Contacts saved in table */
+.tableAlign {
+  text-align: left;
+}
